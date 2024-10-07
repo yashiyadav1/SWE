@@ -1,12 +1,11 @@
 import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 const Header = () => {
   return (
     <header className="sticky-nav">
       <div className="nav-content">
         <h1 className="logo">
-          <FontAwesomeIcon icon="gear" />
+          <img src={process.env.PUBLIC_URL + '/gears.svg'} alt="Gears" className="gears" />
           <span className="orange">Yashi</span>
           <span className="white">@</span>
           <span className="blue">WE24</span>
@@ -42,6 +41,11 @@ const Header = () => {
           display: flex;
           align-items: center;
           gap: 8px;
+        }
+        .gears {
+          width: 60px;
+          height: 20px;
+          margin-right: 10px;
         }
         .orange { color: #f7941d; }
         .white { color: white; }

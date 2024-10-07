@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40">
+  <g transform="translate(20,20) scale(0.7)">
+    <path fill="#f7941d" d="M31.6,16.2l0.6-3.5l4.9-1.3l1.3-4.9l-2.3-2.8L32.7,2l-2.8,2.3l-4.9-1.3L23.8,0h-3.6l-1.3,4.9L14,6.2l-2.8-2.3L8.4,6.6l1.3,4.9L5,12.8l-0.6,3.5l4.9,1.3l1.3,4.9l2.8,2.3l2.8-2.3l4.9,1.3l1.3,4.9h3.6l1.3-4.9l4.9-1.3l2.8,2.3l2.8-2.3l-1.3-4.9L31.6,16.2z M22,25c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8S26.4,25,22,25z">
+      <animateTransform attributeName="transform" type="rotate" from="0 22 22" to="360 22 22" dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(60,20) scale(0.7)">
+    <path fill="white" d="M31.6,16.2l0.6-3.5l4.9-1.3l1.3-4.9l-2.3-2.8L32.7,2l-2.8,2.3l-4.9-1.3L23.8,0h-3.6l-1.3,4.9L14,6.2l-2.8-2.3L8.4,6.6l1.3,4.9L5,12.8l-0.6,3.5l4.9,1.3l1.3,4.9l2.8,2.3l2.8-2.3l4.9,1.3l1.3,4.9h3.6l1.3-4.9l4.9-1.3l2.8,2.3l2.8-2.3l-1.3-4.9L31.6,16.2z M22,25c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8S26.4,25,22,25z">
+      <animateTransform attributeName="transform" type="rotate" from="360 22 22" to="0 22 22" dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(100,20) scale(0.7)">
+    <path fill="#00a9b7" d="M31.6,16.2l0.6-3.5l4.9-1.3l1.3-4.9l-2.3-2.8L32.7,2l-2.8,2.3l-4.9-1.3L23.8,0h-3.6l-1.3,4.9L14,6.2l-2.8-2.3L8.4,6.6l1.3,4.9L5,12.8l-0.6,3.5l4.9,1.3l1.3,4.9l2.8,2.3l2.8-2.3l4.9,1.3l1.3,4.9h3.6l1.3-4.9l4.9-1.3l2.8,2.3l2.8-2.3l-1.3-4.9L31.6,16.2z M22,25c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8S26.4,25,22,25z">
+      <animateTransform attributeName="transform" type="rotate" from="0 22 22" to="360 22 22" dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
